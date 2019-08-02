@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
-    <link>https://jihyungy.github.io/authors/</link>
-      <atom:link href="https://jihyungy.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
+    <title>Academic</title>
+    <link>https://jihyungy.github.io/authors/sun/</link>
+      <atom:link href="https://jihyungy.github.io/authors/sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://jihyungy.github.io/img/icon-192.png</url>
-      <title>Authors</title>
-      <link>https://jihyungy.github.io/authors/</link>
+      <title>Academic</title>
+      <link>https://jihyungy.github.io/authors/sun/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>https://jihyungy.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Jihyung Yoo is an assistant professor of automotive engineering at the Hanyang University. His research interests include thermofluidics, photonics, and high performance computing. He is the principal investigator of the Digial Energy Systems group, which focuses on automotive energy system integration, computational design, and optical sensing.&lt;/p&gt;
-
-&lt;p&gt;He teaches courses in thermodyniamics, fluid mechanics, statistics, numerical methods, and optical sensing. He also oversees the automotive engineering department senior capstone projects.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title></title>
