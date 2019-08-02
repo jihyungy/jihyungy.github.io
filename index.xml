@@ -3,12 +3,14 @@
   <channel>
     <title>Academic</title>
     <link>https://jihyungy.github.io/</link>
-    <description>Recent content on Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    
-	    <atom:link href="https://jihyungy.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://jihyungy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://jihyungy.github.io/img/icon-192.png</url>
+      <title>Academic</title>
+      <link>https://jihyungy.github.io/</link>
+    </image>
     
   </channel>
 </rss>
