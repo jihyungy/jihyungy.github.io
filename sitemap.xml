@@ -3,6 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jihyungy.github.io/authors/admin/</loc>
+    <lastmod>2019-08-23T11:37:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jihyungy.github.io/authors/</loc>
+    <lastmod>2019-08-23T11:37:47+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jihyungy.github.io/post/post_003/</loc>
     <lastmod>2019-08-23T11:37:47+09:00</lastmod>
   </url>
@@ -19,24 +30,13 @@
   </url>
   
   <url>
-    <loc>https://jihyungy.github.io/authors/admin/</loc>
-    <lastmod>2019-08-23T11:30:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jihyungy.github.io/authors/</loc>
-    <lastmod>2019-08-23T11:30:42+09:00</lastmod>
-    <priority>0</priority>
+    <loc>https://jihyungy.github.io/post/post_002/</loc>
+    <lastmod>2019-08-23T11:30:21+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://jihyungy.github.io/post/first_post/</loc>
-    <lastmod>2019-08-23T11:30:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jihyungy.github.io/post/post_002/</loc>
-    <lastmod>2019-08-23T11:30:21+09:00</lastmod>
+    <lastmod>2019-08-23T11:30:00+09:00</lastmod>
   </url>
   
   <url>

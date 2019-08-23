@@ -5,7 +5,7 @@
     <link>https://jihyungy.github.io/authors/admin/</link>
       <atom:link href="https://jihyungy.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>TASeR Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 11:30:42 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 11:37:47 +0900</lastBuildDate>
     <image>
       <url>https://jihyungy.github.io/img/icon-192.png</url>
       <title>TASeR Group</title>
@@ -13,20 +13,38 @@
     </image>
     
     <item>
-      <title>Website redesigned</title>
-      <link>https://jihyungy.github.io/post/first_post/</link>
-      <pubDate>Fri, 23 Aug 2019 11:30:42 +0900</pubDate>
-      <guid>https://jihyungy.github.io/post/first_post/</guid>
-      <description>
+      <title>New graduate students</title>
+      <link>https://jihyungy.github.io/post/post_003/</link>
+      <pubDate>Fri, 23 Aug 2019 11:37:47 +0900</pubDate>
+      <guid>https://jihyungy.github.io/post/post_003/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re welcoming 2 new masters students for Fall 2019, Jun Mincheol and Youngjin Ahn&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A new name</title>
+      <link>https://jihyungy.github.io/post/post_002/</link>
+      <pubDate>Fri, 23 Aug 2019 11:30:21 +0900</pubDate>
+      <guid>https://jihyungy.github.io/post/post_002/</guid>
+      <description>&lt;p&gt;Hopefully, the new name sticks&lt;/p&gt;
 
-&lt;h2 id=&#34;our-website-has-just-been-redesigned-for-fall-2019&#34;&gt;Our website has just been redesigned for Fall 2019&lt;/h2&gt;
+&lt;p&gt;Feedback is always welcome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A new website</title>
+      <link>https://jihyungy.github.io/post/first_post/</link>
+      <pubDate>Fri, 23 Aug 2019 11:30:00 +0900</pubDate>
+      <guid>https://jihyungy.github.io/post/first_post/</guid>
+      <description>&lt;p&gt;Our website has just been redesigned for Fall 2019&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
       <link>https://jihyungy.github.io/authors/admin/</link>
-      <pubDate>Fri, 23 Aug 2019 11:30:42 +0900</pubDate>
+      <pubDate>Fri, 23 Aug 2019 11:37:47 +0900</pubDate>
       <guid>https://jihyungy.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Jihyung Yoo is an assistant professor of automotive engineering at the Hanyang University. His research interests include thermofluidics, photonics, and high performance computing. He is the principal investigator of the Digial Energy Systems group, which focuses on automotive energy system integration, computational design, and optical sensing.&lt;/p&gt;
 
