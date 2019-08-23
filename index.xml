@@ -17,7 +17,9 @@
       <link>https://jihyungy.github.io/project/thermal_modeling/</link>
       <pubDate>Fri, 23 Aug 2019 15:21:17 +0900</pubDate>
       <guid>https://jihyungy.github.io/project/thermal_modeling/</guid>
-      <description>&lt;p&gt;Advanced automotive e-drive systems are being thermally-throttled, however&lt;/p&gt;
+      <description>&lt;p&gt;Advanced automotive e-drive systems are being thermally-throttled, however the ability to analyze the complex impact on temperature within these systems are sill not well understood.&lt;/p&gt;
+
+&lt;p&gt;This study is focused on applying CFD, FEM techniques to fully resolve the complex interaction across multiphysical aspects of automotive energy systems including electric motors, inverters, and batteries. These components are extremely temperature-sensitive, and a better understanding of their physics is required to push the envelop for a more efficient and durable e-mobility solutions.&lt;/p&gt;
 </description>
     </item>
     
@@ -89,11 +91,22 @@
     </item>
     
     <item>
-      <title>An example title</title>
+      <title>Computing resources</title>
       <link>https://jihyungy.github.io/assets/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://jihyungy.github.io/assets/</guid>
-      <description>&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;We are proud to have built our first ever HPC computing cluster. A quick look at its specs are as follows:&lt;/p&gt;
+
+&lt;h4 id=&#34;chaser&#34;&gt;Chaser&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;200 Intel Xeon CPU cores&lt;/li&gt;
+&lt;li&gt;1.5TB DDR3 RAM&lt;/li&gt;
+&lt;li&gt;Mellanox Infiniband&lt;/li&gt;
+&lt;li&gt;3.5 TFLOPS&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
