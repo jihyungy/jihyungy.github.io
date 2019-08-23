@@ -5,12 +5,21 @@
     <link>https://jihyungy.github.io/authors/admin/</link>
       <atom:link href="https://jihyungy.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>TASeR Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 15:21:01 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 15:21:17 +0900</lastBuildDate>
     <image>
       <url>https://jihyungy.github.io/img/icon-192.png</url>
       <title>TASeR Group</title>
       <link>https://jihyungy.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>3D thermal modeling of electric motor for automotive propulsion using OpenFOAM</title>
+      <link>https://jihyungy.github.io/project/thermal_modeling/</link>
+      <pubDate>Fri, 23 Aug 2019 15:21:17 +0900</pubDate>
+      <guid>https://jihyungy.github.io/project/thermal_modeling/</guid>
+      <description>&lt;p&gt;Advanced&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Mesospheric water concentration measurements using QEPAS</title>
@@ -19,7 +28,7 @@
       <guid>https://jihyungy.github.io/project/gas_sensor/</guid>
       <description>&lt;p&gt;This study is focused on developing optical sensing technique for probing and understanding water concentration in the mesoshere. This portion of the Earth&amp;rsquo;s atmosphere is believed to have a significant impact on global warming but its effects are not well-defined. Furthermore, precise water concentration measurement high above the Earth surface is not trivial.&lt;/p&gt;
 
-&lt;p&gt;An optical diagnostic technique known as Quartz-Enhanced Photoacoustic Spectroscopy is applied for ppm-level water concentration measurements between 10 to 50km above sea level.&lt;/p&gt;
+&lt;p&gt;An optical diagnostic technique known as Quartz-Enhanced Photoacoustic Spectroscopy (QEPAS) is applied for ppm-level water concentration measurements between 10 to 50km above sea level. QEPAS is a very sensitive optical diagnostics technique that are used in various applications. This technique would provide an affordable and compact sensing platform that can be extended to studying other gases and their impacts of climate change.&lt;/p&gt;
 </description>
     </item>
     
@@ -64,7 +73,7 @@
     <item>
       <title></title>
       <link>https://jihyungy.github.io/authors/admin/</link>
-      <pubDate>Fri, 23 Aug 2019 15:21:01 +0900</pubDate>
+      <pubDate>Fri, 23 Aug 2019 15:21:17 +0900</pubDate>
       <guid>https://jihyungy.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Jihyung Yoo is an assistant professor of automotive engineering at the Hanyang University. His research interests include thermofluidics, photonics, and high performance computing. He is the principal investigator of the Digial Energy Systems group, which focuses on automotive energy system integration, computational design, and optical sensing.&lt;/p&gt;
 

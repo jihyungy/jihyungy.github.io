@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modeling | TASeR Group</title>
+    <link>https://jihyungy.github.io/tags/modeling/</link>
+      <atom:link href="https://jihyungy.github.io/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Modeling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 15:21:17 +0900</lastBuildDate>
+    <image>
+      <url>https://jihyungy.github.io/img/icon-192.png</url>
+      <title>Modeling</title>
+      <link>https://jihyungy.github.io/tags/modeling/</link>
+    </image>
+    
+    <item>
+      <title>3D thermal modeling of electric motor for automotive propulsion using OpenFOAM</title>
+      <link>https://jihyungy.github.io/project/thermal_modeling/</link>
+      <pubDate>Fri, 23 Aug 2019 15:21:17 +0900</pubDate>
+      <guid>https://jihyungy.github.io/project/thermal_modeling/</guid>
+      <description>&lt;p&gt;Advanced&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
