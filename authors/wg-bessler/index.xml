@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WG Bessler | TASeR Group</title>
+    <link>https://jihyungy.github.io/authors/wg-bessler/</link>
+      <atom:link href="https://jihyungy.github.io/authors/wg-bessler/index.xml" rel="self" type="application/rss+xml" />
+    <description>WG Bessler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jihyungy.github.io/img/icon-192.png</url>
+      <title>WG Bessler</title>
+      <link>https://jihyungy.github.io/authors/wg-bessler/</link>
+    </image>
+    
+    <item>
+      <title>Fluorescence quantum yield of carbon dioxide for quantitative UV laser-induced fluorescence in high-pressure flames</title>
+      <link>https://jihyungy.github.io/publication/lee_fluorescence_2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/publication/lee_fluorescence_2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

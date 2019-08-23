@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CM Mitsingas | TASeR Group</title>
+    <link>https://jihyungy.github.io/authors/cm-mitsingas/</link>
+      <atom:link href="https://jihyungy.github.io/authors/cm-mitsingas/index.xml" rel="self" type="application/rss+xml" />
+    <description>CM Mitsingas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jihyungy.github.io/img/icon-192.png</url>
+      <title>CM Mitsingas</title>
+      <link>https://jihyungy.github.io/authors/cm-mitsingas/</link>
+    </image>
+    
+    <item>
+      <title>Development and characterization of additive-manufactured mesoscale combustor array</title>
+      <link>https://jihyungy.github.io/publication/rajasegar_development_2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/publication/rajasegar_development_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proper orthogonal decomposition for analysis of plasma-assisted premixed swirl-stabilized flame dynamics</title>
+      <link>https://jihyungy.github.io/publication/rajasegar_proper_2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/publication/rajasegar_proper_2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

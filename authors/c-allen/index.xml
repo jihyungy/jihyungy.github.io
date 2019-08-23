@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Allen | TASeR Group</title>
+    <link>https://jihyungy.github.io/authors/c-allen/</link>
+      <atom:link href="https://jihyungy.github.io/authors/c-allen/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Allen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 10:18:18 +0900</lastBuildDate>
+    <image>
+      <url>https://jihyungy.github.io/img/icon-192.png</url>
+      <title>C Allen</title>
+      <link>https://jihyungy.github.io/authors/c-allen/</link>
+    </image>
+    
+    <item>
+      <title>JP-5 and HRJ-5 Autoignition Characteristics and Surrogate Modeling</title>
+      <link>https://jihyungy.github.io/publication/allen_jp-5_2013/</link>
+      <pubDate>Fri, 23 Aug 2019 10:18:18 +0900</pubDate>
+      <guid>https://jihyungy.github.io/publication/allen_jp-5_2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Oldani | TASeR Group</title>
+    <link>https://jihyungy.github.io/authors/a-oldani/</link>
+      <atom:link href="https://jihyungy.github.io/authors/a-oldani/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Oldani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jihyungy.github.io/img/icon-192.png</url>
+      <title>A Oldani</title>
+      <link>https://jihyungy.github.io/authors/a-oldani/</link>
+    </image>
+    
+    <item>
+      <title>Mesoscale burner array performance analysis</title>
+      <link>https://jihyungy.github.io/publication/rajasegar_mesoscale_2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/publication/rajasegar_mesoscale_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive combustion stability analysis using dynamic mode decomposition</title>
+      <link>https://jihyungy.github.io/publication/rajasegar_comprehensive_2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/publication/rajasegar_comprehensive_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

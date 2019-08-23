@@ -5,7 +5,7 @@
     <link>https://jihyungy.github.io/authors/</link>
       <atom:link href="https://jihyungy.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Thu, 01 May 2008 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 10:18:18 +0900</lastBuildDate>
     <image>
       <url>https://jihyungy.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,42 +13,234 @@
     </image>
     
     <item>
-      <title>J. and Lee</title>
-      <link>https://jihyungy.github.io/authors/j.-and-lee/</link>
-      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/j.-and-lee/</guid>
+      <title>C Allen</title>
+      <link>https://jihyungy.github.io/authors/c-allen/</link>
+      <pubDate>Fri, 23 Aug 2019 10:18:18 +0900</pubDate>
+      <guid>https://jihyungy.github.io/authors/c-allen/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>J.B. and Hanson</title>
-      <link>https://jihyungy.github.io/authors/j.b.-and-hanson/</link>
-      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/j.b.-and-hanson/</guid>
+      <title>D Valco</title>
+      <link>https://jihyungy.github.io/authors/d-valco/</link>
+      <pubDate>Fri, 23 Aug 2019 10:18:18 +0900</pubDate>
+      <guid>https://jihyungy.github.io/authors/d-valco/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R.K.</title>
-      <link>https://jihyungy.github.io/authors/r.k./</link>
-      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/r.k./</guid>
+      <title>E Toulson</title>
+      <link>https://jihyungy.github.io/authors/e-toulson/</link>
+      <pubDate>Fri, 23 Aug 2019 10:18:18 +0900</pubDate>
+      <guid>https://jihyungy.github.io/authors/e-toulson/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>T. and Jeffries</title>
-      <link>https://jihyungy.github.io/authors/t.-and-jeffries/</link>
-      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/t.-and-jeffries/</guid>
+      <title>JH Yoo</title>
+      <link>https://jihyungy.github.io/authors/jh-yoo/</link>
+      <pubDate>Fri, 23 Aug 2019 10:18:18 +0900</pubDate>
+      <guid>https://jihyungy.github.io/authors/jh-yoo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Yoo</title>
-      <link>https://jihyungy.github.io/authors/yoo/</link>
-      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/yoo/</guid>
+      <title>T Lee</title>
+      <link>https://jihyungy.github.io/authors/t-lee/</link>
+      <pubDate>Fri, 23 Aug 2019 10:18:18 +0900</pubDate>
+      <guid>https://jihyungy.github.io/authors/t-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Oldani</title>
+      <link>https://jihyungy.github.io/authors/a-oldani/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/a-oldani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B McGann</title>
+      <link>https://jihyungy.github.io/authors/b-mcgann/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/b-mcgann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CD Carter</title>
+      <link>https://jihyungy.github.io/authors/cd-carter/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/cd-carter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Choi</title>
+      <link>https://jihyungy.github.io/authors/j-choi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/j-choi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Yoo</title>
+      <link>https://jihyungy.github.io/authors/j-yoo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/j-yoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Rajasegar</title>
+      <link>https://jihyungy.github.io/authors/r-rajasegar/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/r-rajasegar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SD Hammack</title>
+      <link>https://jihyungy.github.io/authors/sd-hammack/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/sd-hammack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CM Mitsingas</title>
+      <link>https://jihyungy.github.io/authors/cm-mitsingas/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/cm-mitsingas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EK Mayhew</title>
+      <link>https://jihyungy.github.io/authors/ek-mayhew/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/ek-mayhew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q Liu</title>
+      <link>https://jihyungy.github.io/authors/q-liu/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/q-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Mayhew</title>
+      <link>https://jihyungy.github.io/authors/e-mayhew/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/e-mayhew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Halloran</title>
+      <link>https://jihyungy.github.io/authors/m-halloran/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/m-halloran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N Traina</title>
+      <link>https://jihyungy.github.io/authors/n-traina/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/n-traina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Perfetto</title>
+      <link>https://jihyungy.github.io/authors/a-perfetto/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/a-perfetto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JE Parks</title>
+      <link>https://jihyungy.github.io/authors/je-parks/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/je-parks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Geckler</title>
+      <link>https://jihyungy.github.io/authors/s-geckler/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/s-geckler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V Prikhodko</title>
+      <link>https://jihyungy.github.io/authors/v-prikhodko/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/v-prikhodko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WP Partridge</title>
+      <link>https://jihyungy.github.io/authors/wp-partridge/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/wp-partridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Mitchell</title>
+      <link>https://jihyungy.github.io/authors/d-mitchell/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/d-mitchell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DF Davidson</title>
+      <link>https://jihyungy.github.io/authors/df-davidson/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/df-davidson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RK Hanson</title>
+      <link>https://jihyungy.github.io/authors/rk-hanson/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/rk-hanson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Schulz</title>
+      <link>https://jihyungy.github.io/authors/c-schulz/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/c-schulz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JB Jeffries</title>
+      <link>https://jihyungy.github.io/authors/jb-jeffries/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/jb-jeffries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WG Bessler</title>
+      <link>https://jihyungy.github.io/authors/wg-bessler/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/wg-bessler/</guid>
       <description></description>
     </item>
     
