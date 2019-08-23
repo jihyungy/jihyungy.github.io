@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TASeR Group</title>
-    <link>https://jihyungy.github.io/</link>
-      <atom:link href="https://jihyungy.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>TASeR Group</description>
+    <title>J.B. and Hanson | TASeR Group</title>
+    <link>https://jihyungy.github.io/authors/j.b.-and-hanson/</link>
+      <atom:link href="https://jihyungy.github.io/authors/j.b.-and-hanson/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.B. and Hanson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Thu, 01 May 2008 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jihyungy.github.io/img/icon-192.png</url>
-      <title>TASeR Group</title>
-      <link>https://jihyungy.github.io/</link>
+      <title>J.B. and Hanson</title>
+      <link>https://jihyungy.github.io/authors/j.b.-and-hanson/</link>
     </image>
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
       <guid>https://jihyungy.github.io/publication/yoo_detection_2008/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Test post</title>
-      <link>https://jihyungy.github.io/post/new-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/post/new-post/</guid>
-      <description>&lt;p&gt;Test post&lt;/p&gt;
-</description>
     </item>
     
   </channel>
