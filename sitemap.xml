@@ -3,14 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jihyungy.github.io/project/</loc>
+    <lastmod>2019-08-23T15:21:17+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jihyungy.github.io/</loc>
+    <lastmod>2019-08-23T15:21:17+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jihyungy.github.io/project/thermal_modeling/</loc>
+    <lastmod>2019-08-23T15:21:17+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jihyungy.github.io/authors/admin/</loc>
-    <lastmod>2019-08-23T11:37:47+09:00</lastmod>
+    <lastmod>2019-08-23T15:21:01+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://jihyungy.github.io/authors/</loc>
-    <lastmod>2019-08-23T11:37:47+09:00</lastmod>
+    <lastmod>2019-08-23T15:21:01+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jihyungy.github.io/project/gas_sensor/</loc>
+    <lastmod>2019-08-23T15:21:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jihyungy.github.io/tags/sensing/</loc>
+    <lastmod>2019-08-23T15:21:01+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jihyungy.github.io/tags/</loc>
+    <lastmod>2019-08-23T15:21:01+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jihyungy.github.io/project/supercontinuum/</loc>
+    <lastmod>2019-08-23T15:20:53+09:00</lastmod>
   </url>
   
   <url>
@@ -21,12 +60,6 @@
   <url>
     <loc>https://jihyungy.github.io/post/</loc>
     <lastmod>2019-08-23T11:37:47+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jihyungy.github.io/</loc>
-    <lastmod>2019-08-23T11:37:47+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -116,6 +149,11 @@
   
   <url>
     <loc>https://jihyungy.github.io/assets/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jihyungy.github.io/howto/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -319,11 +357,6 @@
   
   <url>
     <loc>https://jihyungy.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jihyungy.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

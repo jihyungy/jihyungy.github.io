@@ -5,12 +5,20 @@
     <link>https://jihyungy.github.io/tags/</link>
       <atom:link href="https://jihyungy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 15:21:01 +0900</lastBuildDate>
     <image>
       <url>https://jihyungy.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://jihyungy.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Sensing</title>
+      <link>https://jihyungy.github.io/tags/sensing/</link>
+      <pubDate>Fri, 23 Aug 2019 15:21:01 +0900</pubDate>
+      <guid>https://jihyungy.github.io/tags/sensing/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

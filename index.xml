@@ -5,12 +5,40 @@
     <link>https://jihyungy.github.io/</link>
       <atom:link href="https://jihyungy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>TASeR Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 11:37:47 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 15:21:17 +0900</lastBuildDate>
     <image>
       <url>https://jihyungy.github.io/img/icon-192.png</url>
       <title>TASeR Group</title>
       <link>https://jihyungy.github.io/</link>
     </image>
+    
+    <item>
+      <title>Thermal_modeling</title>
+      <link>https://jihyungy.github.io/project/thermal_modeling/</link>
+      <pubDate>Fri, 23 Aug 2019 15:21:17 +0900</pubDate>
+      <guid>https://jihyungy.github.io/project/thermal_modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesospheric water concentration measurements using QEPAS</title>
+      <link>https://jihyungy.github.io/project/gas_sensor/</link>
+      <pubDate>Fri, 23 Aug 2019 15:21:01 +0900</pubDate>
+      <guid>https://jihyungy.github.io/project/gas_sensor/</guid>
+      <description>&lt;p&gt;This study is focused on developing optical sensing technique for probing and understanding water concentration in the mesoshere. This portion of the Earth&amp;rsquo;s atmosphere is believed to have a significant impact on global warming but its effects are not well-defined. Furthermore, precise water concentration measurement high above the Earth surface is not trivial.&lt;/p&gt;
+
+&lt;p&gt;An optical diagnostic technique known as Quartz-Enhanced Photoacoustic Spectroscopy is applied for ppm-level water concentration measurements between 10 to 50km above sea level.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Low-temperature fuel pyrolysis diagnostics development using supercontinuum laser absorption spectroscopy</title>
+      <link>https://jihyungy.github.io/project/supercontinuum/</link>
+      <pubDate>Fri, 23 Aug 2019 15:20:53 +0900</pubDate>
+      <guid>https://jihyungy.github.io/project/supercontinuum/</guid>
+      <description>&lt;p&gt;Low temperature fuel kinetics is critical to sustainable automotive propulsion systems development. However, existing models&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New graduate students</title>
@@ -63,6 +91,15 @@
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://jihyungy.github.io/assets/</guid>
       <description>&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to</title>
+      <link>https://jihyungy.github.io/howto/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/howto/</guid>
+      <description>&lt;p&gt;Contents incoming&lt;/p&gt;
 </description>
     </item>
     
