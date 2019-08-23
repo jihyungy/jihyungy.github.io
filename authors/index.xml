@@ -5,7 +5,7 @@
     <link>https://jihyungy.github.io/authors/</link>
       <atom:link href="https://jihyungy.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 10:18:18 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 11:30:42 +0900</lastBuildDate>
     <image>
       <url>https://jihyungy.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,43 +13,14 @@
     </image>
     
     <item>
-      <title>C Allen</title>
-      <link>https://jihyungy.github.io/authors/c-allen/</link>
-      <pubDate>Fri, 23 Aug 2019 10:18:18 +0900</pubDate>
-      <guid>https://jihyungy.github.io/authors/c-allen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D Valco</title>
-      <link>https://jihyungy.github.io/authors/d-valco/</link>
-      <pubDate>Fri, 23 Aug 2019 10:18:18 +0900</pubDate>
-      <guid>https://jihyungy.github.io/authors/d-valco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E Toulson</title>
-      <link>https://jihyungy.github.io/authors/e-toulson/</link>
-      <pubDate>Fri, 23 Aug 2019 10:18:18 +0900</pubDate>
-      <guid>https://jihyungy.github.io/authors/e-toulson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JH Yoo</title>
-      <link>https://jihyungy.github.io/authors/jh-yoo/</link>
-      <pubDate>Fri, 23 Aug 2019 10:18:18 +0900</pubDate>
-      <guid>https://jihyungy.github.io/authors/jh-yoo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T Lee</title>
-      <link>https://jihyungy.github.io/authors/t-lee/</link>
-      <pubDate>Fri, 23 Aug 2019 10:18:18 +0900</pubDate>
-      <guid>https://jihyungy.github.io/authors/t-lee/</guid>
-      <description></description>
+      <title></title>
+      <link>https://jihyungy.github.io/authors/admin/</link>
+      <pubDate>Fri, 23 Aug 2019 11:30:42 +0900</pubDate>
+      <guid>https://jihyungy.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Jihyung Yoo is an assistant professor of automotive engineering at the Hanyang University. His research interests include thermofluidics, photonics, and high performance computing. He is the principal investigator of the Digial Energy Systems group, which focuses on automotive energy system integration, computational design, and optical sensing.&lt;/p&gt;
+
+&lt;p&gt;He teaches courses in thermodyniamics, fluid mechanics, statistics, numerical methods, and optical sensing. He also oversees the automotive engineering department senior capstone projects.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -105,6 +76,14 @@
       <link>https://jihyungy.github.io/authors/sd-hammack/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jihyungy.github.io/authors/sd-hammack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Lee</title>
+      <link>https://jihyungy.github.io/authors/t-lee/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/t-lee/</guid>
       <description></description>
     </item>
     
@@ -197,6 +176,30 @@
     </item>
     
     <item>
+      <title>C Allen</title>
+      <link>https://jihyungy.github.io/authors/c-allen/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/c-allen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Valco</title>
+      <link>https://jihyungy.github.io/authors/d-valco/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/d-valco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Toulson</title>
+      <link>https://jihyungy.github.io/authors/e-toulson/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/authors/e-toulson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>D Mitchell</title>
       <link>https://jihyungy.github.io/authors/d-mitchell/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
@@ -242,17 +245,6 @@
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
       <guid>https://jihyungy.github.io/authors/wg-bessler/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jihyungy.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Jihyung Yoo is an assistant professor of automotive engineering at the Hanyang University. His research interests include thermofluidics, photonics, and high performance computing. He is the principal investigator of the Digial Energy Systems group, which focuses on automotive energy system integration, computational design, and optical sensing.&lt;/p&gt;
-
-&lt;p&gt;He teaches courses in thermodyniamics, fluid mechanics, statistics, numerical methods, and optical sensing. He also oversees the automotive engineering department senior capstone projects.&lt;/p&gt;
-</description>
     </item>
     
     <item>

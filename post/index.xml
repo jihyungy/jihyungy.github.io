@@ -5,7 +5,7 @@
     <link>https://jihyungy.github.io/post/</link>
       <atom:link href="https://jihyungy.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 11:37:47 +0900</lastBuildDate>
     <image>
       <url>https://jihyungy.github.io/img/icon-192.png</url>
       <title>Posts</title>
@@ -13,12 +13,30 @@
     </image>
     
     <item>
-      <title>Test post</title>
-      <link>https://jihyungy.github.io/post/new-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/post/new-post/</guid>
-      <description>&lt;p&gt;Test post&lt;/p&gt;
+      <title>Post_003</title>
+      <link>https://jihyungy.github.io/post/post_003/</link>
+      <pubDate>Fri, 23 Aug 2019 11:37:47 +0900</pubDate>
+      <guid>https://jihyungy.github.io/post/post_003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website redesigned</title>
+      <link>https://jihyungy.github.io/post/first_post/</link>
+      <pubDate>Fri, 23 Aug 2019 11:30:42 +0900</pubDate>
+      <guid>https://jihyungy.github.io/post/first_post/</guid>
+      <description>
+
+&lt;h2 id=&#34;our-website-has-just-been-redesigned-for-fall-2019&#34;&gt;Our website has just been redesigned for Fall 2019&lt;/h2&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Second_post</title>
+      <link>https://jihyungy.github.io/post/post_002/</link>
+      <pubDate>Fri, 23 Aug 2019 11:30:21 +0900</pubDate>
+      <guid>https://jihyungy.github.io/post/post_002/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -5,7 +5,7 @@
     <link>https://jihyungy.github.io/</link>
       <atom:link href="https://jihyungy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>TASeR Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 10:18:18 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 11:37:47 +0900</lastBuildDate>
     <image>
       <url>https://jihyungy.github.io/img/icon-192.png</url>
       <title>TASeR Group</title>
@@ -13,10 +13,29 @@
     </image>
     
     <item>
-      <title>JP-5 and HRJ-5 Autoignition Characteristics and Surrogate Modeling</title>
-      <link>https://jihyungy.github.io/publication/allen_jp-5_2013/</link>
-      <pubDate>Fri, 23 Aug 2019 10:18:18 +0900</pubDate>
-      <guid>https://jihyungy.github.io/publication/allen_jp-5_2013/</guid>
+      <title>Post_003</title>
+      <link>https://jihyungy.github.io/post/post_003/</link>
+      <pubDate>Fri, 23 Aug 2019 11:37:47 +0900</pubDate>
+      <guid>https://jihyungy.github.io/post/post_003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website redesigned</title>
+      <link>https://jihyungy.github.io/post/first_post/</link>
+      <pubDate>Fri, 23 Aug 2019 11:30:42 +0900</pubDate>
+      <guid>https://jihyungy.github.io/post/first_post/</guid>
+      <description>
+
+&lt;h2 id=&#34;our-website-has-just-been-redesigned-for-fall-2019&#34;&gt;Our website has just been redesigned for Fall 2019&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second_post</title>
+      <link>https://jihyungy.github.io/post/post_002/</link>
+      <pubDate>Fri, 23 Aug 2019 11:30:21 +0900</pubDate>
+      <guid>https://jihyungy.github.io/post/post_002/</guid>
       <description></description>
     </item>
     
@@ -77,6 +96,14 @@
     </item>
     
     <item>
+      <title>JP-5 and HRJ-5 Autoignition Characteristics and Surrogate Modeling</title>
+      <link>https://jihyungy.github.io/publication/allen_jp-5_2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/publication/allen_jp-5_2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Near-wall imaging using toluene-based planar laser-induced fluorescence in shock tube flow</title>
       <link>https://jihyungy.github.io/publication/yoo_near-wall_2011/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
@@ -114,15 +141,6 @@
       <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
       <guid>https://jihyungy.github.io/publication/yoo_detection_2008/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Test post</title>
-      <link>https://jihyungy.github.io/post/new-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/post/new-post/</guid>
-      <description>&lt;p&gt;Test post&lt;/p&gt;
-</description>
     </item>
     
   </channel>

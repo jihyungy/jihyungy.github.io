@@ -5,20 +5,12 @@
     <link>https://jihyungy.github.io/publication_types/2/</link>
       <atom:link href="https://jihyungy.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 10:18:18 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jihyungy.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://jihyungy.github.io/publication_types/2/</link>
     </image>
-    
-    <item>
-      <title>JP-5 and HRJ-5 Autoignition Characteristics and Surrogate Modeling</title>
-      <link>https://jihyungy.github.io/publication/allen_jp-5_2013/</link>
-      <pubDate>Fri, 23 Aug 2019 10:18:18 +0900</pubDate>
-      <guid>https://jihyungy.github.io/publication/allen_jp-5_2013/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Mesoscale burner array performance analysis</title>
@@ -73,6 +65,14 @@
       <link>https://jihyungy.github.io/publication/yoo_fast_2015/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://jihyungy.github.io/publication/yoo_fast_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JP-5 and HRJ-5 Autoignition Characteristics and Surrogate Modeling</title>
+      <link>https://jihyungy.github.io/publication/allen_jp-5_2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://jihyungy.github.io/publication/allen_jp-5_2013/</guid>
       <description></description>
     </item>
     
