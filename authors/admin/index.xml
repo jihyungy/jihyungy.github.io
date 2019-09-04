@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TASeR Group</title>
+    <title>TMI lab</title>
     <link>https://jihyungy.github.io/authors/admin/</link>
       <atom:link href="https://jihyungy.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>TASeR Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 15:21:17 +0900</lastBuildDate>
+    <description>TMI lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Management &amp; Instrumentation Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 15:21:17 +0900</lastBuildDate>
     <image>
       <url>https://jihyungy.github.io/img/icon-192.png</url>
-      <title>TASeR Group</title>
+      <title>TMI lab</title>
       <link>https://jihyungy.github.io/authors/admin/</link>
     </image>
     

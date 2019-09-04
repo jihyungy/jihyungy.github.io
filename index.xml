@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TASeR Group</title>
+    <title>TMI lab</title>
     <link>https://jihyungy.github.io/</link>
       <atom:link href="https://jihyungy.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>TASeR Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 15:21:17 +0900</lastBuildDate>
+    <description>TMI lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Management &amp; Instrumentation Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 15:21:17 +0900</lastBuildDate>
     <image>
       <url>https://jihyungy.github.io/img/icon-192.png</url>
-      <title>TASeR Group</title>
+      <title>TMI lab</title>
       <link>https://jihyungy.github.io/</link>
     </image>
     
@@ -97,12 +97,26 @@
       <guid>https://jihyungy.github.io/assets/</guid>
       <description>
 
-&lt;p&gt;We are proud to have built our first ever HPC computing cluster. A quick look at its specs are as follows:&lt;/p&gt;
+&lt;p&gt;The Department of Automotive Engineering maintains a small HPC cluster, nicknamed Marvin, for scientific computing. The linux cluster is accessible to AE research labs.&lt;/p&gt;
 
-&lt;h4 id=&#34;chaser&#34;&gt;Chaser&lt;/h4&gt;
+&lt;h3 id=&#34;hardware-specs&#34;&gt;Hardware specs&lt;/h3&gt;
+
+&lt;h4 id=&#34;front-end-server&#34;&gt;Front-end server&lt;/h4&gt;
+
+&lt;p&gt;This server is only for interactive use, job submissions, and debugging code. Users may not run software on the server.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;200 Intel Xeon CPU cores&lt;/li&gt;
+&lt;li&gt;URL: marvin.hanyang.tech&lt;/li&gt;
+&lt;li&gt;Processors: Dual 6-cores @ 2.6 GHz&lt;/li&gt;
+&lt;li&gt;Main memory size: 32 GB&lt;/li&gt;
+&lt;li&gt;Operating system: Linux (CentOS 7.6)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;compute-nodes&#34;&gt;Compute nodes&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;10 nodes&lt;/li&gt;
+&lt;li&gt;Dual 10-core compute nodes&lt;/li&gt;
 &lt;li&gt;1.5TB DDR3 RAM&lt;/li&gt;
 &lt;li&gt;Mellanox Infiniband&lt;/li&gt;
 &lt;li&gt;3.5 TFLOPS&lt;/li&gt;

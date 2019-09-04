@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RK Hanson | TASeR Group</title>
+    <title>RK Hanson | TMI lab</title>
     <link>https://jihyungy.github.io/authors/rk-hanson/</link>
       <atom:link href="https://jihyungy.github.io/authors/rk-hanson/index.xml" rel="self" type="application/rss+xml" />
     <description>RK Hanson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Analysis &amp; Sensing Lab. All rights reserved</copyright><lastBuildDate>Sat, 01 Oct 2011 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Management &amp; Instrumentation Lab. All rights reserved</copyright><lastBuildDate>Sat, 01 Oct 2011 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jihyungy.github.io/img/icon-192.png</url>
       <title>RK Hanson</title>
