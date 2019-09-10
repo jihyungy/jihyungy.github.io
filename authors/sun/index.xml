@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TMI lab</title>
-    <link>https://jihyungy.github.io/authors/sun/</link>
-      <atom:link href="https://jihyungy.github.io/authors/sun/index.xml" rel="self" type="application/rss+xml" />
-    <description>TMI lab</description>
+    <title>T-AI lab</title>
+    <link>https://easy.hanyang.ac.kr/authors/sun/</link>
+      <atom:link href="https://easy.hanyang.ac.kr/authors/sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>T-AI lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Management &amp; Instrumentation Lab. All rights reserved</copyright>
     <image>
-      <url>https://jihyungy.github.io/img/icon-192.png</url>
-      <title>TMI lab</title>
-      <link>https://jihyungy.github.io/authors/sun/</link>
+      <url>https://easy.hanyang.ac.kr/img/icon-192.png</url>
+      <title>T-AI lab</title>
+      <link>https://easy.hanyang.ac.kr/authors/sun/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://jihyungy.github.io/authors/sun/</link>
+      <link>https://easy.hanyang.ac.kr/authors/sun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/sun/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/sun/</guid>
       <description>
 
 &lt;h1 id=&#34;jihyung-yoo-is-an-assistant-professor-of-automotive-engineering-at-the-hanyang-university-his-research-interests-include-thermofluidics-photonics-and-high-performance-computing-he-is-the-principal-investigator-of-the-digial-energy-systems-group-which-focuses-on-automotive-energy-system-integration-computational-design-and-optical-sensing&#34;&gt;Jihyung Yoo is an assistant professor of automotive engineering at the Hanyang University. His research interests include thermofluidics, photonics, and high performance computing. He is the principal investigator of the Digial Energy Systems group, which focuses on automotive energy system integration, computational design, and optical sensing.&lt;/h1&gt;

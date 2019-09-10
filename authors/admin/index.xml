@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TMI lab</title>
-    <link>https://jihyungy.github.io/authors/admin/</link>
-      <atom:link href="https://jihyungy.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>TMI lab</description>
+    <title>T-AI lab</title>
+    <link>https://easy.hanyang.ac.kr/authors/admin/</link>
+      <atom:link href="https://easy.hanyang.ac.kr/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>T-AI lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Management &amp; Instrumentation Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 15:21:17 +0900</lastBuildDate>
     <image>
-      <url>https://jihyungy.github.io/img/icon-192.png</url>
-      <title>TMI lab</title>
-      <link>https://jihyungy.github.io/authors/admin/</link>
+      <url>https://easy.hanyang.ac.kr/img/icon-192.png</url>
+      <title>T-AI lab</title>
+      <link>https://easy.hanyang.ac.kr/authors/admin/</link>
     </image>
     
     <item>
       <title>3D thermal modeling of electric motor using OpenFOAM</title>
-      <link>https://jihyungy.github.io/project/thermal_modeling/</link>
+      <link>https://easy.hanyang.ac.kr/project/thermal_modeling/</link>
       <pubDate>Fri, 23 Aug 2019 15:21:17 +0900</pubDate>
-      <guid>https://jihyungy.github.io/project/thermal_modeling/</guid>
+      <guid>https://easy.hanyang.ac.kr/project/thermal_modeling/</guid>
       <description>&lt;p&gt;Advanced automotive e-drive systems are being thermally-throttled, however the ability to analyze the complex impact on temperature within these systems are sill not well understood.&lt;/p&gt;
 
 &lt;p&gt;This study is focused on applying CFD, FEM techniques to fully resolve the complex interaction across multiphysical aspects of automotive energy systems including electric motors, inverters, and batteries. These components are extremely temperature-sensitive, and a better understanding of their physics is required to push the envelop for a more efficient and durable e-mobility solutions.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Mesospheric water concentration measurements using QEPAS</title>
-      <link>https://jihyungy.github.io/project/gas_sensor/</link>
+      <link>https://easy.hanyang.ac.kr/project/gas_sensor/</link>
       <pubDate>Fri, 23 Aug 2019 15:21:01 +0900</pubDate>
-      <guid>https://jihyungy.github.io/project/gas_sensor/</guid>
+      <guid>https://easy.hanyang.ac.kr/project/gas_sensor/</guid>
       <description>&lt;p&gt;This study is focused on developing optical sensing technique for probing and understanding water concentration in the mesoshere. This portion of the Earth&amp;rsquo;s atmosphere is believed to have a significant impact on global warming but its effects are not well-defined. Furthermore, precise water concentration measurement high above the Earth surface is not trivial.&lt;/p&gt;
 
 &lt;p&gt;An optical diagnostic technique known as Quartz-Enhanced Photoacoustic Spectroscopy (QEPAS) is applied for ppm-level water concentration measurements between 10 to 50km above sea level. QEPAS is a very sensitive optical diagnostics technique that are used in various applications. This technique would provide an affordable and compact sensing platform that can be extended to studying other gases and their impacts of climate change.&lt;/p&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>Low-temperature fuel pyrolysis diagnostics using SCLAS</title>
-      <link>https://jihyungy.github.io/project/supercontinuum/</link>
+      <link>https://easy.hanyang.ac.kr/project/supercontinuum/</link>
       <pubDate>Fri, 23 Aug 2019 15:20:53 +0900</pubDate>
-      <guid>https://jihyungy.github.io/project/supercontinuum/</guid>
+      <guid>https://easy.hanyang.ac.kr/project/supercontinuum/</guid>
       <description>&lt;p&gt;Low temperature fuel kinetics is critical to sustainable automotive propulsion systems development. However, existing models do not reliably reproduce realworld outcomes partially due to the limited experimental results.&lt;/p&gt;
 
 &lt;p&gt;This sensor is specifically designed to probe specific pyrolysis products that may form during low-temperature fuel pyrolysis. The sensor is based on supercontinuum light source, a broadband laser source capable of ouputing across the entire visible and the near-IR spectrum. This source was mated with a fast spectru-resolving diagnostic technique tor probe absorption spectra of key species present during fuel pyrolysis. The sensor is currently under active development and characterization.&lt;/p&gt;
@@ -47,18 +47,18 @@
     
     <item>
       <title>New graduate students</title>
-      <link>https://jihyungy.github.io/post/post_003/</link>
+      <link>https://easy.hanyang.ac.kr/post/post_003/</link>
       <pubDate>Fri, 23 Aug 2019 11:37:47 +0900</pubDate>
-      <guid>https://jihyungy.github.io/post/post_003/</guid>
+      <guid>https://easy.hanyang.ac.kr/post/post_003/</guid>
       <description>&lt;p&gt;We&amp;rsquo;re welcoming 2 new masters students for Fall 2019, Jun Mincheol and Youngjin Ahn&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A new name</title>
-      <link>https://jihyungy.github.io/post/post_002/</link>
+      <link>https://easy.hanyang.ac.kr/post/post_002/</link>
       <pubDate>Fri, 23 Aug 2019 11:30:21 +0900</pubDate>
-      <guid>https://jihyungy.github.io/post/post_002/</guid>
+      <guid>https://easy.hanyang.ac.kr/post/post_002/</guid>
       <description>&lt;p&gt;Hopefully, the new name sticks&lt;/p&gt;
 
 &lt;p&gt;Feedback is always welcome.&lt;/p&gt;
@@ -67,18 +67,18 @@
     
     <item>
       <title>A new website</title>
-      <link>https://jihyungy.github.io/post/first_post/</link>
+      <link>https://easy.hanyang.ac.kr/post/first_post/</link>
       <pubDate>Fri, 23 Aug 2019 11:30:00 +0900</pubDate>
-      <guid>https://jihyungy.github.io/post/first_post/</guid>
+      <guid>https://easy.hanyang.ac.kr/post/first_post/</guid>
       <description>&lt;p&gt;Our website has just been redesigned for Fall 2019&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jihyungy.github.io/authors/admin/</link>
+      <link>https://easy.hanyang.ac.kr/authors/admin/</link>
       <pubDate>Fri, 23 Aug 2019 15:21:17 +0900</pubDate>
-      <guid>https://jihyungy.github.io/authors/admin/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/admin/</guid>
       <description>&lt;p&gt;Jihyung Yoo is an assistant professor of automotive engineering at the Hanyang University. His research interests include thermofluidics, photonics, and high performance computing. He is the principal investigator of the Digial Energy Systems group, which focuses on automotive energy system integration, computational design, and optical sensing.&lt;/p&gt;
 
 &lt;p&gt;He teaches courses in thermodyniamics, fluid mechanics, statistics, numerical methods, and optical sensing. He also oversees the automotive engineering department senior capstone projects.&lt;/p&gt;

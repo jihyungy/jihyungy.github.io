@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J Choi | TMI lab</title>
-    <link>https://jihyungy.github.io/authors/j-choi/</link>
-      <atom:link href="https://jihyungy.github.io/authors/j-choi/index.xml" rel="self" type="application/rss+xml" />
+    <title>J Choi | T-AI lab</title>
+    <link>https://easy.hanyang.ac.kr/authors/j-choi/</link>
+      <atom:link href="https://easy.hanyang.ac.kr/authors/j-choi/index.xml" rel="self" type="application/rss+xml" />
     <description>J Choi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Management &amp; Instrumentation Lab. All rights reserved</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jihyungy.github.io/img/icon-192.png</url>
+      <url>https://easy.hanyang.ac.kr/img/icon-192.png</url>
       <title>J Choi</title>
-      <link>https://jihyungy.github.io/authors/j-choi/</link>
+      <link>https://easy.hanyang.ac.kr/authors/j-choi/</link>
     </image>
     
     <item>
       <title>Mesoscale burner array performance analysis</title>
-      <link>https://jihyungy.github.io/publication/rajasegar_mesoscale_2019/</link>
+      <link>https://easy.hanyang.ac.kr/publication/rajasegar_mesoscale_2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/publication/rajasegar_mesoscale_2019/</guid>
+      <guid>https://easy.hanyang.ac.kr/publication/rajasegar_mesoscale_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comprehensive combustion stability analysis using dynamic mode decomposition</title>
-      <link>https://jihyungy.github.io/publication/rajasegar_comprehensive_2018/</link>
+      <link>https://easy.hanyang.ac.kr/publication/rajasegar_comprehensive_2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/publication/rajasegar_comprehensive_2018/</guid>
+      <guid>https://easy.hanyang.ac.kr/publication/rajasegar_comprehensive_2018/</guid>
       <description></description>
     </item>
     

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>E Mayhew | TMI lab</title>
-    <link>https://jihyungy.github.io/authors/e-mayhew/</link>
-      <atom:link href="https://jihyungy.github.io/authors/e-mayhew/index.xml" rel="self" type="application/rss+xml" />
+    <title>E Mayhew | T-AI lab</title>
+    <link>https://easy.hanyang.ac.kr/authors/e-mayhew/</link>
+      <atom:link href="https://easy.hanyang.ac.kr/authors/e-mayhew/index.xml" rel="self" type="application/rss+xml" />
     <description>E Mayhew</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Management &amp; Instrumentation Lab. All rights reserved</copyright><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jihyungy.github.io/img/icon-192.png</url>
+      <url>https://easy.hanyang.ac.kr/img/icon-192.png</url>
       <title>E Mayhew</title>
-      <link>https://jihyungy.github.io/authors/e-mayhew/</link>
+      <link>https://easy.hanyang.ac.kr/authors/e-mayhew/</link>
     </image>
     
     <item>
       <title>Proper orthogonal decomposition for analysis of plasma-assisted premixed swirl-stabilized flame dynamics</title>
-      <link>https://jihyungy.github.io/publication/rajasegar_proper_2016/</link>
+      <link>https://easy.hanyang.ac.kr/publication/rajasegar_proper_2016/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/publication/rajasegar_proper_2016/</guid>
+      <guid>https://easy.hanyang.ac.kr/publication/rajasegar_proper_2016/</guid>
       <description></description>
     </item>
     

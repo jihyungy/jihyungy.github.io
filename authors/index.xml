@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | TMI lab</title>
-    <link>https://jihyungy.github.io/authors/</link>
-      <atom:link href="https://jihyungy.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | T-AI lab</title>
+    <link>https://easy.hanyang.ac.kr/authors/</link>
+      <atom:link href="https://easy.hanyang.ac.kr/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Management &amp; Instrumentation Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 15:21:17 +0900</lastBuildDate>
     <image>
-      <url>https://jihyungy.github.io/img/icon-192.png</url>
+      <url>https://easy.hanyang.ac.kr/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://jihyungy.github.io/authors/</link>
+      <link>https://easy.hanyang.ac.kr/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://jihyungy.github.io/authors/admin/</link>
+      <link>https://easy.hanyang.ac.kr/authors/admin/</link>
       <pubDate>Fri, 23 Aug 2019 15:21:17 +0900</pubDate>
-      <guid>https://jihyungy.github.io/authors/admin/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/admin/</guid>
       <description>&lt;p&gt;Jihyung Yoo is an assistant professor of automotive engineering at the Hanyang University. His research interests include thermofluidics, photonics, and high performance computing. He is the principal investigator of the Digial Energy Systems group, which focuses on automotive energy system integration, computational design, and optical sensing.&lt;/p&gt;
 
 &lt;p&gt;He teaches courses in thermodyniamics, fluid mechanics, statistics, numerical methods, and optical sensing. He also oversees the automotive engineering department senior capstone projects.&lt;/p&gt;
@@ -25,249 +25,249 @@
     
     <item>
       <title>A Oldani</title>
-      <link>https://jihyungy.github.io/authors/a-oldani/</link>
+      <link>https://easy.hanyang.ac.kr/authors/a-oldani/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/a-oldani/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/a-oldani/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B McGann</title>
-      <link>https://jihyungy.github.io/authors/b-mcgann/</link>
+      <link>https://easy.hanyang.ac.kr/authors/b-mcgann/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/b-mcgann/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/b-mcgann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CD Carter</title>
-      <link>https://jihyungy.github.io/authors/cd-carter/</link>
+      <link>https://easy.hanyang.ac.kr/authors/cd-carter/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/cd-carter/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/cd-carter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J Choi</title>
-      <link>https://jihyungy.github.io/authors/j-choi/</link>
+      <link>https://easy.hanyang.ac.kr/authors/j-choi/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/j-choi/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/j-choi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J Yoo</title>
-      <link>https://jihyungy.github.io/authors/j-yoo/</link>
+      <link>https://easy.hanyang.ac.kr/authors/j-yoo/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/j-yoo/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/j-yoo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Rajasegar</title>
-      <link>https://jihyungy.github.io/authors/r-rajasegar/</link>
+      <link>https://easy.hanyang.ac.kr/authors/r-rajasegar/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/r-rajasegar/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/r-rajasegar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SD Hammack</title>
-      <link>https://jihyungy.github.io/authors/sd-hammack/</link>
+      <link>https://easy.hanyang.ac.kr/authors/sd-hammack/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/sd-hammack/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/sd-hammack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T Lee</title>
-      <link>https://jihyungy.github.io/authors/t-lee/</link>
+      <link>https://easy.hanyang.ac.kr/authors/t-lee/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/t-lee/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/t-lee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CM Mitsingas</title>
-      <link>https://jihyungy.github.io/authors/cm-mitsingas/</link>
+      <link>https://easy.hanyang.ac.kr/authors/cm-mitsingas/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/cm-mitsingas/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/cm-mitsingas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EK Mayhew</title>
-      <link>https://jihyungy.github.io/authors/ek-mayhew/</link>
+      <link>https://easy.hanyang.ac.kr/authors/ek-mayhew/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/ek-mayhew/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/ek-mayhew/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Q Liu</title>
-      <link>https://jihyungy.github.io/authors/q-liu/</link>
+      <link>https://easy.hanyang.ac.kr/authors/q-liu/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/q-liu/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/q-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E Mayhew</title>
-      <link>https://jihyungy.github.io/authors/e-mayhew/</link>
+      <link>https://easy.hanyang.ac.kr/authors/e-mayhew/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/e-mayhew/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/e-mayhew/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M Halloran</title>
-      <link>https://jihyungy.github.io/authors/m-halloran/</link>
+      <link>https://easy.hanyang.ac.kr/authors/m-halloran/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/m-halloran/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/m-halloran/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N Traina</title>
-      <link>https://jihyungy.github.io/authors/n-traina/</link>
+      <link>https://easy.hanyang.ac.kr/authors/n-traina/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/n-traina/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/n-traina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Perfetto</title>
-      <link>https://jihyungy.github.io/authors/a-perfetto/</link>
+      <link>https://easy.hanyang.ac.kr/authors/a-perfetto/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/a-perfetto/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/a-perfetto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JE Parks</title>
-      <link>https://jihyungy.github.io/authors/je-parks/</link>
+      <link>https://easy.hanyang.ac.kr/authors/je-parks/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/je-parks/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/je-parks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S Geckler</title>
-      <link>https://jihyungy.github.io/authors/s-geckler/</link>
+      <link>https://easy.hanyang.ac.kr/authors/s-geckler/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/s-geckler/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/s-geckler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V Prikhodko</title>
-      <link>https://jihyungy.github.io/authors/v-prikhodko/</link>
+      <link>https://easy.hanyang.ac.kr/authors/v-prikhodko/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/v-prikhodko/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/v-prikhodko/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WP Partridge</title>
-      <link>https://jihyungy.github.io/authors/wp-partridge/</link>
+      <link>https://easy.hanyang.ac.kr/authors/wp-partridge/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/wp-partridge/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/wp-partridge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C Allen</title>
-      <link>https://jihyungy.github.io/authors/c-allen/</link>
+      <link>https://easy.hanyang.ac.kr/authors/c-allen/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/c-allen/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/c-allen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D Valco</title>
-      <link>https://jihyungy.github.io/authors/d-valco/</link>
+      <link>https://easy.hanyang.ac.kr/authors/d-valco/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/d-valco/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/d-valco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E Toulson</title>
-      <link>https://jihyungy.github.io/authors/e-toulson/</link>
+      <link>https://easy.hanyang.ac.kr/authors/e-toulson/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/e-toulson/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/e-toulson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D Mitchell</title>
-      <link>https://jihyungy.github.io/authors/d-mitchell/</link>
+      <link>https://easy.hanyang.ac.kr/authors/d-mitchell/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/d-mitchell/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/d-mitchell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DF Davidson</title>
-      <link>https://jihyungy.github.io/authors/df-davidson/</link>
+      <link>https://easy.hanyang.ac.kr/authors/df-davidson/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/df-davidson/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/df-davidson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RK Hanson</title>
-      <link>https://jihyungy.github.io/authors/rk-hanson/</link>
+      <link>https://easy.hanyang.ac.kr/authors/rk-hanson/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/rk-hanson/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/rk-hanson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C Schulz</title>
-      <link>https://jihyungy.github.io/authors/c-schulz/</link>
+      <link>https://easy.hanyang.ac.kr/authors/c-schulz/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/c-schulz/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/c-schulz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JB Jeffries</title>
-      <link>https://jihyungy.github.io/authors/jb-jeffries/</link>
+      <link>https://easy.hanyang.ac.kr/authors/jb-jeffries/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/jb-jeffries/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/jb-jeffries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WG Bessler</title>
-      <link>https://jihyungy.github.io/authors/wg-bessler/</link>
+      <link>https://easy.hanyang.ac.kr/authors/wg-bessler/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/wg-bessler/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/wg-bessler/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jihyungy.github.io/authors/ahn/</link>
+      <link>https://easy.hanyang.ac.kr/authors/ahn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/ahn/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/ahn/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jihyungy.github.io/authors/jun/</link>
+      <link>https://easy.hanyang.ac.kr/authors/jun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/jun/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/jun/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jihyungy.github.io/authors/sun/</link>
+      <link>https://easy.hanyang.ac.kr/authors/sun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/sun/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/sun/</guid>
       <description>
 
 &lt;h1 id=&#34;jihyung-yoo-is-an-assistant-professor-of-automotive-engineering-at-the-hanyang-university-his-research-interests-include-thermofluidics-photonics-and-high-performance-computing-he-is-the-principal-investigator-of-the-digial-energy-systems-group-which-focuses-on-automotive-energy-system-integration-computational-design-and-optical-sensing&#34;&gt;Jihyung Yoo is an assistant professor of automotive engineering at the Hanyang University. His research interests include thermofluidics, photonics, and high performance computing. He is the principal investigator of the Digial Energy Systems group, which focuses on automotive energy system integration, computational design, and optical sensing.&lt;/h1&gt;

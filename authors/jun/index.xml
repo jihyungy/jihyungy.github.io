@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TMI lab</title>
-    <link>https://jihyungy.github.io/authors/jun/</link>
-      <atom:link href="https://jihyungy.github.io/authors/jun/index.xml" rel="self" type="application/rss+xml" />
-    <description>TMI lab</description>
+    <title>T-AI lab</title>
+    <link>https://easy.hanyang.ac.kr/authors/jun/</link>
+      <atom:link href="https://easy.hanyang.ac.kr/authors/jun/index.xml" rel="self" type="application/rss+xml" />
+    <description>T-AI lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Management &amp; Instrumentation Lab. All rights reserved</copyright>
     <image>
-      <url>https://jihyungy.github.io/img/icon-192.png</url>
-      <title>TMI lab</title>
-      <link>https://jihyungy.github.io/authors/jun/</link>
+      <url>https://easy.hanyang.ac.kr/img/icon-192.png</url>
+      <title>T-AI lab</title>
+      <link>https://easy.hanyang.ac.kr/authors/jun/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://jihyungy.github.io/authors/jun/</link>
+      <link>https://easy.hanyang.ac.kr/authors/jun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/authors/jun/</guid>
+      <guid>https://easy.hanyang.ac.kr/authors/jun/</guid>
       <description></description>
     </item>
     

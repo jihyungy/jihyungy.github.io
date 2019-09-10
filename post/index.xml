@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | TMI lab</title>
-    <link>https://jihyungy.github.io/post/</link>
-      <atom:link href="https://jihyungy.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | T-AI lab</title>
+    <link>https://easy.hanyang.ac.kr/post/</link>
+      <atom:link href="https://easy.hanyang.ac.kr/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Management &amp; Instrumentation Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 11:37:47 +0900</lastBuildDate>
     <image>
-      <url>https://jihyungy.github.io/img/icon-192.png</url>
+      <url>https://easy.hanyang.ac.kr/img/icon-192.png</url>
       <title>Posts</title>
-      <link>https://jihyungy.github.io/post/</link>
+      <link>https://easy.hanyang.ac.kr/post/</link>
     </image>
     
     <item>
       <title>New graduate students</title>
-      <link>https://jihyungy.github.io/post/post_003/</link>
+      <link>https://easy.hanyang.ac.kr/post/post_003/</link>
       <pubDate>Fri, 23 Aug 2019 11:37:47 +0900</pubDate>
-      <guid>https://jihyungy.github.io/post/post_003/</guid>
+      <guid>https://easy.hanyang.ac.kr/post/post_003/</guid>
       <description>&lt;p&gt;We&amp;rsquo;re welcoming 2 new masters students for Fall 2019, Jun Mincheol and Youngjin Ahn&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A new name</title>
-      <link>https://jihyungy.github.io/post/post_002/</link>
+      <link>https://easy.hanyang.ac.kr/post/post_002/</link>
       <pubDate>Fri, 23 Aug 2019 11:30:21 +0900</pubDate>
-      <guid>https://jihyungy.github.io/post/post_002/</guid>
+      <guid>https://easy.hanyang.ac.kr/post/post_002/</guid>
       <description>&lt;p&gt;Hopefully, the new name sticks&lt;/p&gt;
 
 &lt;p&gt;Feedback is always welcome.&lt;/p&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>A new website</title>
-      <link>https://jihyungy.github.io/post/first_post/</link>
+      <link>https://easy.hanyang.ac.kr/post/first_post/</link>
       <pubDate>Fri, 23 Aug 2019 11:30:00 +0900</pubDate>
-      <guid>https://jihyungy.github.io/post/first_post/</guid>
+      <guid>https://easy.hanyang.ac.kr/post/first_post/</guid>
       <description>&lt;p&gt;Our website has just been redesigned for Fall 2019&lt;/p&gt;
 </description>
     </item>

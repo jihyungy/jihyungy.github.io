@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>D Valco | TMI lab</title>
-    <link>https://jihyungy.github.io/authors/d-valco/</link>
-      <atom:link href="https://jihyungy.github.io/authors/d-valco/index.xml" rel="self" type="application/rss+xml" />
+    <title>D Valco | T-AI lab</title>
+    <link>https://easy.hanyang.ac.kr/authors/d-valco/</link>
+      <atom:link href="https://easy.hanyang.ac.kr/authors/d-valco/index.xml" rel="self" type="application/rss+xml" />
     <description>D Valco</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Management &amp; Instrumentation Lab. All rights reserved</copyright><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jihyungy.github.io/img/icon-192.png</url>
+      <url>https://easy.hanyang.ac.kr/img/icon-192.png</url>
       <title>D Valco</title>
-      <link>https://jihyungy.github.io/authors/d-valco/</link>
+      <link>https://easy.hanyang.ac.kr/authors/d-valco/</link>
     </image>
     
     <item>
       <title>JP-5 and HRJ-5 Autoignition Characteristics and Surrogate Modeling</title>
-      <link>https://jihyungy.github.io/publication/allen_jp-5_2013/</link>
+      <link>https://easy.hanyang.ac.kr/publication/allen_jp-5_2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/publication/allen_jp-5_2013/</guid>
+      <guid>https://easy.hanyang.ac.kr/publication/allen_jp-5_2013/</guid>
       <description></description>
     </item>
     

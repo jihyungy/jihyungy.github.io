@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Q Liu | TMI lab</title>
-    <link>https://jihyungy.github.io/authors/q-liu/</link>
-      <atom:link href="https://jihyungy.github.io/authors/q-liu/index.xml" rel="self" type="application/rss+xml" />
+    <title>Q Liu | T-AI lab</title>
+    <link>https://easy.hanyang.ac.kr/authors/q-liu/</link>
+      <atom:link href="https://easy.hanyang.ac.kr/authors/q-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Q Liu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Management &amp; Instrumentation Lab. All rights reserved</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jihyungy.github.io/img/icon-192.png</url>
+      <url>https://easy.hanyang.ac.kr/img/icon-192.png</url>
       <title>Q Liu</title>
-      <link>https://jihyungy.github.io/authors/q-liu/</link>
+      <link>https://easy.hanyang.ac.kr/authors/q-liu/</link>
     </image>
     
     <item>
       <title>Development and characterization of additive-manufactured mesoscale combustor array</title>
-      <link>https://jihyungy.github.io/publication/rajasegar_development_2018/</link>
+      <link>https://easy.hanyang.ac.kr/publication/rajasegar_development_2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://jihyungy.github.io/publication/rajasegar_development_2018/</guid>
+      <guid>https://easy.hanyang.ac.kr/publication/rajasegar_development_2018/</guid>
       <description></description>
     </item>
     

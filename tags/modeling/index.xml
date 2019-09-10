@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Modeling | TMI lab</title>
-    <link>https://jihyungy.github.io/tags/modeling/</link>
-      <atom:link href="https://jihyungy.github.io/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
+    <title>Modeling | T-AI lab</title>
+    <link>https://easy.hanyang.ac.kr/tags/modeling/</link>
+      <atom:link href="https://easy.hanyang.ac.kr/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
     <description>Modeling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Thermal Management &amp; Instrumentation Lab. All rights reserved</copyright><lastBuildDate>Fri, 23 Aug 2019 15:21:17 +0900</lastBuildDate>
     <image>
-      <url>https://jihyungy.github.io/img/icon-192.png</url>
+      <url>https://easy.hanyang.ac.kr/img/icon-192.png</url>
       <title>Modeling</title>
-      <link>https://jihyungy.github.io/tags/modeling/</link>
+      <link>https://easy.hanyang.ac.kr/tags/modeling/</link>
     </image>
     
     <item>
       <title>3D thermal modeling of electric motor using OpenFOAM</title>
-      <link>https://jihyungy.github.io/project/thermal_modeling/</link>
+      <link>https://easy.hanyang.ac.kr/project/thermal_modeling/</link>
       <pubDate>Fri, 23 Aug 2019 15:21:17 +0900</pubDate>
-      <guid>https://jihyungy.github.io/project/thermal_modeling/</guid>
+      <guid>https://easy.hanyang.ac.kr/project/thermal_modeling/</guid>
       <description>&lt;p&gt;Advanced automotive e-drive systems are being thermally-throttled, however the ability to analyze the complex impact on temperature within these systems are sill not well understood.&lt;/p&gt;
 
 &lt;p&gt;This study is focused on applying CFD, FEM techniques to fully resolve the complex interaction across multiphysical aspects of automotive energy systems including electric motors, inverters, and batteries. These components are extremely temperature-sensitive, and a better understanding of their physics is required to push the envelop for a more efficient and durable e-mobility solutions.&lt;/p&gt;
